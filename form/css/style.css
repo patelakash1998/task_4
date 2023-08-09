@@ -1,0 +1,13 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.loop{
+align-items: center;
+text-align: center;
+}
+h2{
+    margin-bottom:20px;
+    margin-top: 10px;
+}
